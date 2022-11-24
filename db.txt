@@ -1,3 +1,5 @@
 ip: 127.0.0.1
 pass: root
 user :root
+
+dialect: jdbc:localhost.conn
